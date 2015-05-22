@@ -1,0 +1,29 @@
+{
+  "name": "hang_man",
+  "version": "0.0.1",
+  "description": "A game of hang man!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saikyun/hang_man.git"
+  },
+  "keywords": [
+    "game",
+    "hang",
+    "man"
+  ],
+  "author": "Jona Ekenberg <saikyun@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saikyun/hang_man/issues"
+  },
+  "homepage": "https://github.com/Saikyun/hang_man",
+  "dependencies": {
+    "express": "^4.12.4",
+    "rule_checker": "^0.1.2",
+    "socket.io": "^1.3.5"
+  }
+}
